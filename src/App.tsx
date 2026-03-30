@@ -1,6 +1,6 @@
-import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Play, RefreshCw, Sparkles, Star, Trophy } from "lucide-react";
+import { useEffect, useMemo, useState } from "react";
 
 const APP_NAME = "בַּלָּשֵׁי הַבִּיּוּב";
 const IMAGE_ALT = APP_NAME;
